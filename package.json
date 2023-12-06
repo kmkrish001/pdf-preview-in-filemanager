@@ -1,0 +1,22 @@
+{
+  "name": "fr3mc3--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "23.2.6",
+    "@syncfusion/ej2-data": "23.2.4",
+    "@syncfusion/ej2-filemanager": "23.2.6",
+    "@syncfusion/ej2-vue-base": "23.2.7",
+    "@syncfusion/ej2-vue-calendars": "23.2.7",
+    "@syncfusion/ej2-vue-charts": "23.2.7",
+    "@syncfusion/ej2-vue-filemanager": "23.2.6",
+    "@syncfusion/ej2-vue-grids": "23.2.7",
+    "@syncfusion/ej2-vue-inputs": "23.2.4",
+    "@syncfusion/ej2-vue-maps": "23.2.7",
+    "@syncfusion/ej2-vue-navigations": "23.2.7",
+    "@syncfusion/ej2-vue-pdfviewer": "^23.2.7",
+    "@syncfusion/ej2-vue-richtexteditor": "23.2.7",
+    "@syncfusion/ej2-vue-schedule": "23.2.7",
+    "vue": "3.3.4"
+  }
+}
